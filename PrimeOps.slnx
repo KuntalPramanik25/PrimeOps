@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="PrimeOps.API/PrimeOps.API.csproj" />
+  <Project Path="PrimeOps.BLL/PrimeOps.BLL.csproj" />
+  <Project Path="PrimeOps.DAL/PrimeOps.DAL.csproj" />
+  <Project Path="PrimeOps.ENTITY/PrimeOps.ENTITY.csproj" />
+  <Project Path="PrimeOps.JOBS/PrimeOps.JOBS.csproj" />
+  <Project Path="PrimeOps.LOGGER/PrimeOps.LOGGER.csproj" />
+  <Project Path="PrimeOps.PYTHON/PrimeOps.PYTHON.csproj" />
+</Solution>

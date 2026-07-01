@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "primeops-python-engine"
+version = "1.0.0"
+description = "PrimeOps Python Engine — called from .NET via PythonNet"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["primeops_python_engine*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
