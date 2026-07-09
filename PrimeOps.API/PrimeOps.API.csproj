@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\PrimeOps.DAL\PrimeOps.DAL.csproj" />
     <ProjectReference Include="..\PrimeOps.ENTITY\PrimeOps.ENTITY.csproj" />
     <ProjectReference Include="..\PrimeOps.LOGGER\PrimeOps.LOGGER.csproj" />
     <ProjectReference Include="..\PrimeOps.PYTHON\PrimeOps.PYTHON.csproj" />

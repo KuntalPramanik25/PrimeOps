@@ -1,2 +1,2 @@
 @echo off
-python patchbuilder.py %*
+py patchbuilder.py %*

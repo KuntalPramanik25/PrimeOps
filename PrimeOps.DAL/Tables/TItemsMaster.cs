@@ -1,4 +1,4 @@
-﻿namespace PrimeOps.DAL
+﻿namespace PrimeOps.DAL.Tables
 {
     public class TItemsMaster
     {

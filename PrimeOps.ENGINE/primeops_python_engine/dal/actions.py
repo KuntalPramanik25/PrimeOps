@@ -5,7 +5,7 @@ import polars as pl
 T = TypeVar("T")
 
 
-class actions:
+# class actions:
     
     # @staticmethod
     # def get_data_from_dal (entity_name: str, entity_type: Type[T], folder_path: str) -> list[T]:
